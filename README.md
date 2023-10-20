@@ -39,9 +39,6 @@ For questions, additional information, or potential collaboration opportunities,
 
 - **LinkedIn:** [Tigist Znabei](https://www.linkedin.com/in/tigist-znabei/)
 
-## Acknowledgements
-
-Special thanks to those who contributed and provided insights throughout the research and coding process.
 
 
 
